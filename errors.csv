@@ -1,0 +1,21 @@
+row_id,value,column,category
+jackhhao:9,baseline,jackhhao,Persona Hijacking
+jackhhao:1177,baseline,jackhhao,Persona Hijacking
+jackhhao:464,baseline,jackhhao,Ordinary Task
+jackhhao:721,baseline,jackhhao,Persona Hijacking
+jackhhao:1254,baseline,jackhhao,Persona Hijacking
+jackhhao:341,baseline,jackhhao,Persona Hijacking
+jackhhao:477,baseline,jackhhao,Persona Hijacking
+jackhhao:290,baseline,jackhhao,Persona Hijacking
+jackhhao:820,baseline,jackhhao,Control-Flow Manipulation 
+jackhhao:157,baseline,jackhhao,System Instruction Manipulation 
+jackhhao:234,baseline,jackhhao,System Instruction Manipulation 
+jackhhao:448,baseline,jackhhao,Harmful or Sensitive Content Request 
+jackhhao:126,baseline,jackhhao,System Instruction Manipulation 
+jackhhao:1171,baseline,jackhhao,Harmful or Sensitive Content Request 
+jackhhao:7,baseline,jackhhao,Ordinary Task 
+jackhhao:595,baseline,jackhhao,System Instruction Manipulation 
+jackhhao:496,baseline,jackhhao,Control-Flow Manipulation 
+jackhhao:503,baseline,jackhhao,Control-Flow Manipulation 
+jackhhao:1259,baseline,jackhhao,Safety Bypass 
+jackhhao:1015,baseline,jackhhao,Ordinary Task 
